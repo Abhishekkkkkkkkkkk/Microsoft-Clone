@@ -1,0 +1,15 @@
+{
+  "name": "tailwindtut-6",
+  "version": "1.0.0",
+  "main": "postcss.config.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "vite": "^4.0.4"
+  }
+}
